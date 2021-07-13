@@ -56,10 +56,6 @@
 <br />
 <br />
 
-<a href="https://github.com/NYARAS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYARAS&theme=tokyonight" />
-  </a>
-
 ---
 ### Github Activity ✔:
 
