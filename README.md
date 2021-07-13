@@ -61,13 +61,19 @@
   </a>
 
 ---
+### Github Activity ✔:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/NYARAS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYARAS&theme=tokyonight" />
+  </a>
 
-![NYARAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYARAS&show_icons=true&theme=radical)
+<a href="https://github.com/NYARAS">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NYARAS&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
 
-</details>
+<br/>
+<br/>
+<br/>
 
 [twitter]: https://twitter.com/CalvineNyaranga
 [instagram]: https://instagram.com/mknyaranga/
