@@ -10,9 +10,29 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NYARAS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="NYARAS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NYARAS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
+
+<a href="https://github.com/NYARAS">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/mknyaranga/">
+  <img align="left" alt="Calvine's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://facebook.com/otieno.nyaranga/">
+  <img align="left" alt="Calvine's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/CalvineNyaranga">
+  <img align="left" alt="Calvine's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/calvine-otieno-0259a813b/">
+  <img align="left" alt="Calvine's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
 
 <br />
 
@@ -35,6 +55,10 @@
 
 <br />
 <br />
+
+<a href="https://github.com/NYARAS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYARAS&theme=tokyonight" />
+  </a>
 
 ---
 
