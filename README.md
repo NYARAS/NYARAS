@@ -48,10 +48,13 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="Golang" width="26px" src="https://camo.githubusercontent.com/c26ef7dd43db67579b01ea57f14de7c2dd486a50a142e85dd06f8d0540a9a6e2/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676f2d6f726967696e616c2e737667"/>
+<img align="left" alt="Docker" width="26px" src="https://camo.githubusercontent.com/6819655dad2979647adee4b2f01fc7da674eb0bff06cf25bd576427f091064a1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://camo.githubusercontent.com/c15662380f5f49777bd8a29c6634eafd5663056ee9daa0e1c1a490dc6a748da5/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6b756265726e657465732d69636f6e2e737667"/>
+<img align="left" alt="Linux" width="26px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"/>
 
 <br />
 
