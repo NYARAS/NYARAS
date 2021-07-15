@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and get 2 Cloud Certifications
 - ⚡ Fun fact: I love listening to rhumba
 
 ### Connect with me:
@@ -53,13 +53,15 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
 [<img align="left" alt="Golang" width="26px" src="https://camo.githubusercontent.com/c26ef7dd43db67579b01ea57f14de7c2dd486a50a142e85dd06f8d0540a9a6e2/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676f2d6f726967696e616c2e737667"/>]
 
-<br/>
-<br/>
+<br />
+
+<br />
+
 ### Github Activity ✔:
 
 <a href="https://github.com/NYARAS">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYARAS&theme=tokyonight" />
-  </a>
+</a>
 
 <a href="https://github.com/NYARAS">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NYARAS&show_icons=true&theme=tokyonight&line_height=27" alt="Calvine's github stats"/>
