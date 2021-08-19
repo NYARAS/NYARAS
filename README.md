@@ -25,6 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
+![Gitlab CI](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
