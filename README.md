@@ -8,8 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and get 2 Cloud Certifications
 - ⚡ Fun fact: I love listening to rhumba
 
-![Snake animation](https://github.com/NYARAS/NYARAS/blob/output/github-contribution-grid-snake.svg)
-
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
