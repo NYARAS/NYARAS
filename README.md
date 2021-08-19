@@ -1,10 +1,6 @@
 ### Hi there, I'm Calvine 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/CalvineNyaranga?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=CalvineNyaranga)
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=NYARAS&repo=NYARAS&countColorcountColor)
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-
 ## I'm a Developer, and DevOps Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -58,30 +54,30 @@
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-<!-- <p align="left">
-<a href="https://github.com/NYARAS">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NYARAS"/>
-  <img height="180em" src="https://raw.githubusercontent.com/NYARAS/NYARAS/main/profile-summary-card-output/github/4-productive-time.svg"/>
-</a>
-</p> -->
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
-
-<!-- <img width="100%" src="https://github.com/NYARAS/NYARAS/blob/main/github-metrics.svg" /> -->
-<!-- ![Metrics](https://github.com/NYARAS/NYARAS/blob/main/metrics.plugin.achievements.svg) -->
-
 ### Let's connect ? 🤝
 
-<p align="left">
-<a href="http://bit.ly/NYARASlinkedin"><img src="https://img.shields.io/badge/-NYARAS-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/NYARAStwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/NYARASstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/NYARASmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/NYARASdevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<br/>
 
+<a href="https://github.com/NYARAS">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/mknyaranga/">
+  <img align="left" alt="Calvine's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://facebook.com/otieno.nyaranga/">
+  <img align="left" alt="Calvine's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/CalvineNyaranga">
+  <img align="left" alt="Calvine's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/calvine-otieno-0259a813b/">
+  <img align="left" alt="Calvine's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+<br />
