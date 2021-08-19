@@ -29,8 +29,8 @@ func makeReadme(filename string) error {
 	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
-	hello := "### Hello! I’m Calvine Otieno.\n\nI,m DevOps Engineer. I am involved in designing and implementing automation processes, CI/CD, Infrastructure as Code (IaC), monitoring, and logging. Am also interested in designing systems to take advantage of the automation and scalability of cloud-native, micro service-oriented, and containerized environments using technology such as Docker and Kubernetes " + wcItem.Description + " words I’ve written on [medium.com](https://https://calvineotieno010.medium.com/). I hope to empower people to learn openly and fearlessly through knowledge sharing and technology leadership."
-	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://calvineotieno010.medium.com/) or by email at [**medium.com**](https://https://calvineotieno010.medium.com/)."
+	hello := "### Hello! I’m Calvine Otieno.\n\nI,m DevOps Engineer. I am involved in designing and implementing automation processes, CI/CD, Infrastructure as Code (IaC), monitoring, and logging. Am also interested in designing systems to take advantage of the automation and scalability of cloud-native, micro service-oriented, and containerized environments using technology such as Docker and Kubernetes " + wcItem.Description + " words I’ve written on [medium.com](https://calvineotieno010.medium.com/). I hope to empower people to learn openly and fearlessly through knowledge sharing and technology leadership."
+	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://calvineotieno010.medium.com/) or by email at [**medium.com**](https://calvineotieno010.medium.com/)."
 	updated := "<sub>Last updated by magic on " + date + ".</sub>"
 	data := fmt.Sprintf("%s\n\n%s\n\n%s\n", hello, blog, updated)
 
