@@ -1,11 +1,11 @@
 ### Hi there, I'm Calvine 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/CalvineNyaranga?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=CalvineNyaranga)
 
-## I'm a Developer, and DevOps Engineer!!
+## I'm a Developer, and a DevOps Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and get 2 Cloud Certifications
+- 🥅 2023 Goals: Contribute more to Open Source projects and get 2 Cloud Certifications (CKA and CKAD)
 - ⚡ Fun fact: I love listening to rhumba
 
 ### Languages & Tools 🛠
