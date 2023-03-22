@@ -56,13 +56,13 @@ I post frequently on [medium](https://medium.com/@calvineotieno010), and on [lin
 </p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />### Stories by Calvine Otieno on Medium
- - [Effortlessly Save Your Travel Locations with this iPhone Shortcut](https://medium.com/robotacademy/effortlessly-save-your-travel-locations-with-this-iphone-shortcut-d64127839e3c?source=rss-b1a89a0af139------2)
- - [Organizing Your Downloads Directory with Python](https://medium.com/robotacademy/organizing-your-downloads-directory-with-python-d5b0978b05df?source=rss-b1a89a0af139------2)
- - [Monitor your Mac’s battery life with Python](https://medium.com/robotacademy/monitor-your-macs-battery-life-with-python-8e3b2bb135ab?source=rss-b1a89a0af139------2)
- - [Use OpenAI to Respond to an Email](https://medium.com/robotacademy/use-openai-to-respond-to-an-email-5c1026b642b8?source=rss-b1a89a0af139------2)
- - [5 Tasks To Automate With Python](https://medium.com/robotacademy/5-tasks-to-automate-with-python-e7146996f3?source=rss-b1a89a0af139------2)
- - [Easily Make Youtube Compilations Using Python](https://medium.com/robotacademy/easily-make-youtube-compilations-using-python-6e07ae26a0f4?source=rss-b1a89a0af139------2)
- - [Add  A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a?source=rss-b1a89a0af139------2)
- - [Essential Characteristics That Lead to Elite-Performing Engineering Teams](https://medium.com/leading-and-managing/essential-characteristics-that-lead-to-elite-performing-engineering-teams-176268f483a9?source=rss-b1a89a0af139------2)
- - [How I Accidentally Made $250 In The First Month Building My Personal Brand](https://medium.com/dylanroy/how-i-accidentally-made-250-in-the-first-month-building-my-personal-brand-9ac3f3cf9fc8?source=rss-b1a89a0af139------2)
- - [Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0?source=rss-b1a89a0af139------2)
+ - [Secure your CI/CD Pipelines with Sigstore and Kyverno — Signing and Verifying Image](https://medium.com/@calvineotieno010/secure-your-ci-cd-pipelines-with-sigstore-and-kyverno-signing-and-verifying-image-c6adfa868910?source=rss-f2902cd02d2d------2)
+ - [GitOps with ArgoCD, EKS and GitLab CI using Terraform](https://medium.com/@calvineotieno010/gitops-with-argocd-eks-and-gitlab-ci-using-terraform-2a3c094b4ea3?source=rss-f2902cd02d2d------2)
+ - [Terraform Pipeline with Gitlab CI and OpenID Connect](https://medium.com/@calvineotieno010/terraform-pipeline-with-gitlab-ci-and-openid-connect-b5c4e73ccb8c?source=rss-f2902cd02d2d------2)
+ - [Hardening Terraform CI/CD — Building a Reliable Terraform Code](https://medium.com/@calvineotieno010/hardening-terraform-ci-cd-building-a-reliable-terraform-code-ff76eafaf1e1?source=rss-f2902cd02d2d------2)
+ - [DevOps Automation with Terraform, Docker and AWS— Implementing a complete Terraform Workflow with…](https://medium.com/@calvineotieno010/devops-automation-with-terraform-docker-and-aws-implementing-a-complete-terraform-workflow-with-11090da023be?source=rss-f2902cd02d2d------2)
+ - [Improving your CI/CD Pipeline: Helm Charts Security Scanning with Trivy and GitHub Actions](https://medium.com/@calvineotieno010/improving-your-ci-cd-pipeline-helm-charts-security-scanning-with-trivy-and-github-actions-acc081df2c2d?source=rss-f2902cd02d2d------2)
+ - [Blue Green and Canary Infrastructure with Terraform](https://medium.com/@calvineotieno010/blue-green-and-canary-infrastructure-with-terraform-f9e6f92a795f?source=rss-f2902cd02d2d------2)
+ - [Multi-Container Pod Design Patterns in Kubernetes — Sidecar Pattern](https://medium.com/@calvineotieno010/multi-container-pod-design-patterns-in-kubernetes-sidecar-pattern-d2dad1f6e81b?source=rss-f2902cd02d2d------2)
+ - [How to securely serve your website from AWS S3 and CloudFront using Terraform](https://medium.com/@calvineotieno010/how-to-securely-serve-your-website-from-aws-s3-and-cloudfront-using-terraform-c083ef36c828?source=rss-f2902cd02d2d------2)
+ - [GCP Cloud SQL — Recovering an accidentally deleted database/Cloud SQL Instance](https://medium.com/@calvineotieno010/gcp-cloud-sql-recovering-an-accidentally-deleted-database-cloud-sql-instance-b8f947769f40?source=rss-f2902cd02d2d------2)
