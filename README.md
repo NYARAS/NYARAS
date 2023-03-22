@@ -5,10 +5,12 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
 - ⚡ Fun fact: I love listening to Rhumba and travelling
 
-### Follow me here
+### Follow me here 🤝
 <a href="https://twitter.com/intent/follow?screen_name=CalvineNyaranga&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://medium.com/@calvineotieno010" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/calvine-otieno-0259a813b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I post frequently on [medium](https://medium.com/@calvineotieno010), and on [linkedin](https://www.linkedin.com/in/calvine-otieno-0259a813b).
 
 ### Languages & Tools 🛠
 
@@ -54,31 +56,3 @@
 </p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-### Let's connect ? 🤝
-
-<br/>
-
-<a href="https://github.com/NYARAS">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://instagram.com/mknyaranga/">
-  <img align="left" alt="Calvine's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://facebook.com/otieno.nyaranga/">
-  <img align="left" alt="Calvine's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/CalvineNyaranga">
-  <img align="left" alt="Calvine's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/calvine-otieno-0259a813b/">
-  <img align="left" alt="Calvine's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-<br />
