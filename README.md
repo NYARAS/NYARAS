@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
-- ⚡ Fun fact: I love listening to Rhumba and travelling
+- ⚡ Fun fact: I love listening to Rhumba and traveling
 
 ### Follow me here 🤝
 <a href="https://twitter.com/intent/follow?screen_name=CalvineNyaranga&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
