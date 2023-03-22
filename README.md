@@ -1,12 +1,14 @@
-### Hi there, I'm Calvine 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/CalvineNyaranga?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=CalvineNyaranga)
-
-## I'm a Developer, and a DevOps Engineer!!
+# Software Developer & DevOps Engineer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects and get 2 Cloud Certifications (CKA and CKAD)
-- ⚡ Fun fact: I love listening to rhumba
+- 🥅 2023 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
+- ⚡ Fun fact: I love listening to Rhumba and travelling
+
+### Follow me here
+<a href="https://twitter.com/intent/follow?screen_name=CalvineNyaranga&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@calvineotieno010" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/calvine-otieno-0259a813b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Languages & Tools 🛠
 
