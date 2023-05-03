@@ -1,9 +1,9 @@
 # Software Developer & DevOps Engineer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with other developers especially for open source work
 - 🥅 2023 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
-- ⚡ Fun fact: I love listening to Rhumba and traveling
+- ⚡ Fun fact: I love listening to Rhumba and hiking/travelling 
 
 ### Follow me here 🤝
 <a href="https://twitter.com/intent/follow?screen_name=CalvineNyaranga&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
