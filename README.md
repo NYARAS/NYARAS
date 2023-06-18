@@ -1,7 +1,7 @@
 # Software Developer & DevOps Engineer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers especially for open source work
+- 👯 I’m looking to collaborate with other developers, especially for open-source work
 - 🥅 2023 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
 - ⚡ Fun fact: I love listening to Rhumba and hiking/travelling 
 
