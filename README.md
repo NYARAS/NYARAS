@@ -59,15 +59,11 @@ I post frequently on [medium](https://medium.com/@calvineotieno010), and on [lin
 
 
 ##  **My Certifications 🏅**
-- [AWS Certified: Security Specialty](https://www.credly.com/badges/efa2379a-4007-40f9-9cef-00d98575d415)
-- [AWS Certified: Advanced Networking Specialty](https://www.credly.com/badges/83200658-432d-41bc-a603-e02cb5d6fd85)
-- [AWS Certified: Big Data Specialty](https://www.credly.com/badges/1fc70ac2-66a9-4f3e-a7c4-e8640be65b14)
-- [AWS Certified: Solutions Architect Professional](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
-- [AWS Certified: DevOps Engineer Professional](https://www.credly.com/badges/ac6f908e-731c-4b79-a624-a6f44b3d847f)
-- [HashiCorp Certified: Vault Operations Professional](https://www.credly.com/badges/38df2ba2-894d-44ed-ab89-d047ae8f15d0)
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
-- [HashiCorp Certified: Vault Associate](https://www.credly.com/badges/04658c9a-e756-40f5-9cc1-0038c3355c54)
-- [HashiCorp Certified: Consul Associate](https://www.credly.com/badges/10bb093f-0018-40c3-bcb5-8ba4605457fb)
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/badges/2f1ea2ee-79d0-4988-8a1f-f23b16347664)
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/47d8b812-bd32-494c-8412-05d4c211df71)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/b0926251-6c28-40d2-bac7-2c09af165b2b)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/fe655d12-5f91-4fb5-8f99-98747d99180c)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/42a379e4-7b09-4fe8-bb7e-bd272210cbba)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/otieno-calvine)
 
